@@ -17,6 +17,7 @@ OR
 
 - With RStudio - File/Open Project - Navigate to the folder - Open
 
+Afterwards you may open `code/install_script_visualization.R` and run it.
 
 
 Full notes found at:
